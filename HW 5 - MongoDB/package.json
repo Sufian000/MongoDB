@@ -1,0 +1,18 @@
+{
+  "name": "digital-cookbook",
+  "version": "1.0.0",
+  "description": "MongoDB & Mongoose CRUD Assignment - Digital Cookbook",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": ["mongodb", "mongoose", "crud", "assignment"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.6.0"
+  }
+}
